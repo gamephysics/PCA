@@ -3,7 +3,7 @@
 유닛의 분포된 위치를 기반으로 중점과 대표 방향(주축)을 계산하여 해당 방향으로 폭탄을 투하하고자 합니다.
 
 
-<img src="./Assets/Art/ScreenShot.jpg" width="50%" height="50%"></img>
+<img src="./Assets/Art/ScreenShot.jpg" width="30%" height="30%"></img>
 
 
 ## Youtube
